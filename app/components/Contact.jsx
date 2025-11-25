@@ -9,9 +9,9 @@ export default function Contact() {
         </p>
 
         <div className="flex flex-col gap-3 opacity-90">
-          <p>Email: your-email@example.com</p>
-          <p>GitHub: github.com/yourprofile</p>
-          <p>LinkedIn: linkedin.com/in/yourprofile</p>
+          <p>Email: zaragozafroilanjoshua16@gmail.com</p>
+          <p>Facebook: Froilan Zaragoza</p>
+          <p>Instagram: @_froilaann</p>
         </div>
       </div>
     </section>
